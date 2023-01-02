@@ -20,4 +20,4 @@ Përdorimi është shumë i thjeshtë ndiqni komandat në ekran, kopjoni URL e v
 
  <h3>Info</h3>
  
-Për videot programi do të shkarkojë resolucionin më të lartë të mundshëm por ka nja limit që është 720p jo për faj të programit por për shkak të mënyrës se si funksionon YouTube pasi për videot me resolucion më të lartë se 720p audio dhe video ruhen veçmas dhe kërkon konvertim në PC e përdoruesit dhe disa codec për ti bashkuar bashkë.
+Për videot programi do të shkarkojë resolucionin më të lartë të mundshëm por ka një limit që është 720p jo për faj të programit por për shkak të mënyrës se si funksionon YouTube pasi për videot me resolucion më të lartë se 720p audio dhe video ruhen veçmas dhe kërkon konvertim në PC e përdoruesit dhe disa codec për ti bashkuar bashkë.
